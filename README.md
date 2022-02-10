@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mateus Alves
-- 👀 I’m interested in aprender tecnologias avançadas, e sempre continuar aprendendo mais sobre tecnologias.
+- 👀 I’m interested in learn advanced technologies, and always keep learning more about technologies.
 - 🌱 I’m currently learning Nodejs, React, Next
-- 💞️ I’m looking to collaborate junto com a comunidade, colaborar em projetos open source.
+- 💞️ I’m looking to collaborate together with the community, collaborate on open source projects.
 - 📫 How to reach me - E-mail: teus.alves.sp@gmail.com
 
 <!---
