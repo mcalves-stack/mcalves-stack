@@ -2,9 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h3> :woman: &nbsp; Olá, eu sou Mateus.
-Estou em busca da minha primeira oportunidade de desenvolvedor de sistemas.
+Estou em busca da minha primeira oportunidade como desenvolvedor de sistemas.
 
-você pode me encontrar nos seguintes canais: 
+você pode me encontrar nos seguintes canais:<br/>
+  
   e-mail: mateuscarrera38@gmail.com,
   telefone: (11) 94895-5365
 
