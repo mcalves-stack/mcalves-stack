@@ -6,7 +6,7 @@ Estou em busca da minha primeira oportunidade como desenvolvedor de sistemas.
 
 você pode me encontrar nos seguintes canais:<br/>
   
-  e-mail: mateuscarrera38@gmail.com,
+  e-mail: mateuscarrera38@gmail.com,<br/>
   telefone: (11) 94895-5365
 
 Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h3>
