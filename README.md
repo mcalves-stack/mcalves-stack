@@ -1,7 +1,14 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp; Olá, eu sou Mateus.
+Estou em busca da minha primeira oportunidade de desenvolvedor de sistemas.
+
+você pode me encontrar nos seguintes canais: 
+  e-mail: mateuscarrera38@gmail.com,
+  telefone: (11) 94895-5365
+
+Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://www.unasp.br/">UNASP</a>.
