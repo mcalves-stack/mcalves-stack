@@ -4,9 +4,9 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://www.unasp.br/">SUA FACULDADE</a>.
+- 💼 &nbsp; Trabalhando como **Assistente Administrativo** na <a href="https://www.bureauveritas.com.br/pt-br">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Node,React,Python,C#**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
