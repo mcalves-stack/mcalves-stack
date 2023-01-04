@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp; Olá, eu sou Mateus.
+<h3> 👨‍: &nbsp;Olá, eu sou Mateus.
 Estou em busca da minha primeira oportunidade como desenvolvedor de sistemas.
 
 você pode me encontrar nos seguintes canais:<br/>
@@ -26,6 +26,8 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+  
 
 **Utilidades**
 
