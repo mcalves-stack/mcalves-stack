@@ -51,7 +51,7 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
 <br/>
 
 <a href="https://github.com/mcalves-stack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus Carreras&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
