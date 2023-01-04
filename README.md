@@ -26,8 +26,7 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
-  
+
 
 **Utilidades**
 
@@ -59,6 +58,6 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Mateus Carrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/mateus-carrera-26a04a16b)
 [![Gmail Badge](https://img.shields.io/badge/-mateuscarrera38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mateuscarrera38@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
