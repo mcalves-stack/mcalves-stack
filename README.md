@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=mcalves-stack&color=006bed)
 
 <h3> 👨‍: &nbsp;Olá, eu sou Mateus.
-Estou em busca da minha primeira oportunidade como desenvolvedor de sistemas.
+Estou em busca da minha primeira oportunidade como desenvolvedor.
 
 você pode me encontrar nos seguintes canais:<br/>
   
