@@ -60,4 +60,4 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
 
 [![Linkedin: Mateus Alves](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-carrera-26a04a16b/)](https://www.linkedin.com/in/mateus-carrera-26a04a16b/)
 [![Gmail Badge](https://img.shields.io/badge/-mateuscarrera38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mateuscarrera38@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/mcalves-stack)
