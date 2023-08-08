@@ -13,7 +13,7 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://www.unasp.br/">UNASP</a>.
 - 💼 &nbsp; Trabalhando como **Assistente Administrativo** na <a href="https://www.bureauveritas.com.br/pt-br">Bureau Veritas</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Node,React,Python,C#**.
+- 🌱 &nbsp; Aprendendo mais sobre **Node,React,Python e C#**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
