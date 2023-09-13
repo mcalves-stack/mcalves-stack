@@ -3,9 +3,11 @@
 
 <h3> 👨‍: &nbsp;Olá, eu sou Mateus.
 
-você pode me encontrar nos seguintes canais:<br/>
-  
-  e-mail: mateuscarrera38@gmail.com,<br/>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Mateus Alves](https://img.shields.io/badge/-LINKEDLN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-carrera-26a04a16b/)](https://www.linkedin.com/in/mateus-carrera-26a04a16b/)
+[![Gmail Badge](https://img.shields.io/badge/-mateuscarrera38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mateuscarrera38@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/mcalves-stack?label=follow&style=social)](https://github.com/mcalves-stack)
 
 
 Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h3>
@@ -55,8 +57,4 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Mateus Alves](https://img.shields.io/badge/-LINKEDLN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-carrera-26a04a16b/)](https://www.linkedin.com/in/mateus-carrera-26a04a16b/)
-[![Gmail Badge](https://img.shields.io/badge/-mateuscarrera38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mateuscarrera38@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/mcalves-stack?label=follow&style=social)](https://github.com/mcalves-stack)
