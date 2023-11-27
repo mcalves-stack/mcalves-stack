@@ -7,7 +7,7 @@
 
 [![Linkedin: Mateus Alves](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-carrera-26a04a16b/)](https://www.linkedin.com/in/mateus-carrera-26a04a16b/)
 [![Gmail Badge](https://img.shields.io/badge/-mateuscarrera38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mateuscarrera38@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/mcalves-stack?label=follow&style=social)](https://github.com/mcalves-stack)
+
 
 
 Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h3>
@@ -54,6 +54,8 @@ Você quer trabalhar comigo? Entre em contato, vou adorar conversar com você</h
 <a href="https://github.com/mcalves-stack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcalves-stacK&theme=dracula&show_icons=true" />
 </a>
+
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/mcalves-stack?label=follow&style=social)](https://github.com/mcalves-stack)
 
 <br/>
 
